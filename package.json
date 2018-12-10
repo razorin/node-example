@@ -1,0 +1,21 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "This is a webapp example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/razorin/node-example.git"
+  },
+  "author": "razorin",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/razorin/node-example/issues"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
