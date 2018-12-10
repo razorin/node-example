@@ -6,5 +6,5 @@
   <li>In order to run it: npm start -- --port=&lt;port&gt; --content=&lt;content&gt; or npm run start -- --port=&lt;port&gt; --content=&lt;content&gt; or nodejs index.js --port=&lt;port&gt; --content=&lt;content&gt; </li>
 </ol>
 
-The port parameter specifies on which port the application will listen (default: 3000)
-The content parameter specifies the content that the application will return
+<p>The port parameter specifies on which port the application will listen (default: 3000)</p>
+<p>The content parameter specifies the content that the application will return (default: Hello World!)</p>
